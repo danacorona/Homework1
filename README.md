@@ -1,1 +1,7 @@
-# Homework1
+# Horiseon Accessibility Update
+
+Horiseon was looking to update their site so that it is much more accessible to users. It is highly important that all websites keep in mind those who use screen readers and make sure that their website is set up correctly so that a user is able to navigate their website in a smoother fashion. Not only does this help the user navigating the site, but it also helps the business to make sure their users are receivng the **most important** information first. 
+
+The changes that were made to the website consisted of replacing many of the div elements with more semantic elements that gives the site more meaning and helps with navigation for those who use screen readers. The image tags now have alternative text, which gives the user a description of the image on the page which is not only great for screen readers, but also gives a user an idea of the image should the image be unavailable. There was a bit of clean up that was done within the CSS file to make things more consolidated. This consisted of combining selectors that had the same properties. There have been multiple comments that have been added to the HTML as well as the CSS to give more clarity as to what elements hold certain properties.
+
+You can view the website at https://danacorona.github.io/Horiseon-Accessibility-Update/
